@@ -1,0 +1,18 @@
+body{background:#1F0068; margin:0px;height:100%; width:100%;}
+.left{width:80px; z-index:40; height:100%; background:#111111; position:fixed; top:0px; left:0px;}
+.nav1 a{ display:block;background:url(../image/nav.png); height:70px; width:70px; line-height:150px;}
+.nav1 a:hover{display:block; background:url(../image/nav.png) no-repeat 0px -70px;height:70px; width:70px}
+.nav2 a{ display:block;background:url(../image/nav.png) no-repeat 0px -140px; height:70px; width:70px; margin-top:20px}
+.nav2 a:hover{display:block; background:url(../image/nav.png) no-repeat 0px -275px;height:70px; width:70px}
+.nav3 a{ display:block;background:url(../image/nav.png) no-repeat 0px -210px; height:70px; width:70px; margin-top:20px}
+.nav3 a:hover{display:block; background:url(../image/nav.png) no-repeat 0px -345px;height:70px; width:70px}
+.nav4 a{ display:block;background:url(../image/nav.png) no-repeat 0px -400px; height:70px; width:70px; margin-top:20px}
+.nav4 a:hover{display:block; background:url(../image/nav.png) no-repeat 0px -470px;height:70px; width:70px}
+.nav5 a{ display:block;background:url(../image/nav.png) no-repeat 0px -540px; height:70px; width:70px; margin-top:20px}
+.nav5 a:hover{display:block; background:url(../image/nav.png) no-repeat 0px -605px;height:70px; width:70px}
+.nav6 a{ display:block;background:url(../image/nav.png) no-repeat 0px -665px; height:70px; width:70px; margin-top:20px}
+.nav6 a:hover{display:block; background:url(../image/nav.png) no-repeat 0px -727px;height:70px; width:70px}
+.nav11{width:300px; z-index:50; height:100%; background:#111111; position:absolute; top:0px; left:80px;opacity:0}
+.nav11div1{margin-top:10px; line-height:50px; font-weight:bold; font-size:36px; color:#666}
+.nav22div2{margin-top:10px;line-height:50px; font-weight:bold; font-size:24px; color:#666;}
+.nav22div2 input{height:20px;}
